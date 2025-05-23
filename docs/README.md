@@ -16,7 +16,7 @@ La invitación está pensada para ser clara, accesible y funcional en cualquier 
 
 ## 📁 Estructura del Proyecto
 
- invitacion-boda/
+ Boda/
 ├── index.html
 ├── css/
 │ └── style.css
@@ -49,7 +49,7 @@ La invitación está pensada para ser clara, accesible y funcional en cualquier 
    - Correo en el formulario (`action="https://formsubmit.co/tu-correo"`).
    - Enlace a tu lista de Spotify.
    - Teléfonos de contacto reales (si se desea).
-4. Sube el sitio a tu hosting o GitHub Pages.
+4. Sube el sitio a tu hosting.
 
 ## ⚠️ Notas
 
